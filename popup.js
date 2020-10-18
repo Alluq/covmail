@@ -6,11 +6,6 @@
 
 let addLine = document.getElementById('addText');
 
-chrome.storage.sync.get('color', function(data) {
-  addLine.style.backgroundColor = data.color;
-  addLine.setAttribute('value', data.color);
-});
-
 addLine.onclick = function(element) {
   let color = element.target.value;
   chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
