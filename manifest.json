@@ -3,7 +3,6 @@
   "version": "1.0",
   "description": "To hope emails find others well in these unprecedented times.",
   "permissions": ["activeTab", "declarativeContent", "storage", "tabs"],
-  "options_page": "options.html",
   "background": {
     "scripts": ["background.js"],
     "persistent": false
