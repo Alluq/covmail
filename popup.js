@@ -33,7 +33,7 @@ const potential_fillins = [
     "drinking dalgona coffee every morning",
     "fermenting sourdough starters under your desk",
     "spending your life savings on delivery apps",
-    "eating takeout every other day to \“support local\”",
+    "eating takeout every other day to ~support local~",
     "getting scanned in medbay",
     "hiding in the vents of electrical",
     "planning extensive vacation plans for 2026",
