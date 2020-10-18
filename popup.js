@@ -91,7 +91,7 @@ addLine.onclick = function(element) {
   chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
     chrome.tabs.executeScript(
         tabs[0].id,
-              {code: 'document.getElementsByClassName("Am Al editable LW-avf tS-tW")[0].innerHTML += "I hope you are ' 
+              {code: 'document.querySelectorAll(\'[aria-label="Message Body"]\')[1].innerHTML += "I hope you are ' 
               +  fillin[0]  + " in these " + fillin[1] + ' and ' + fillin[2] + ' times.";'});
         // {code: 'document.getElementsByClassName("Am Al editable LW-avf tS-tW")[0].innerHTML +=' + 
         // "I hope you are " + fillin[0] + " in these " + fillin[1] + " and " + fillin[2] + " times.\n"});
