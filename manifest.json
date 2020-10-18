@@ -10,6 +10,18 @@
   },
   "page_action": {
     "default_popup": "popup.html"
+    "default_icon": {
+      "16": "images/covmail16.png",
+      "32": "images/covmail32.png",
+      "48": "images/covmail48.png",
+      "128": "images/covmail128.png"
+    }
+  },
+  "icons": {
+    "16": "images/covmail16.png",
+    "32": "images/covmail32.png",
+    "48": "images/covmail48.png",
+    "128": "images/covmail128.png"
   },
   "manifest_version": 2
 }
