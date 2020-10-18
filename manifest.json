@@ -9,6 +9,7 @@
     "persistent": false
   },
   "page_action": {
+    "default_title": "Press while on Gmail",
     "default_popup": "popup.html",
     "default_icon": {
       "16": "images/covmail16.png",
