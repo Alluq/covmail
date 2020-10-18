@@ -11,6 +11,6 @@ addLine.onclick = function(element) {
   chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
     chrome.tabs.executeScript(
         tabs[0].id,
-        {code: 'document.getElementById(":tc") = "Ripperoni"'});
+        {code: 'document.getElementsByClassName("Am Al editable LW-avf tS-tW")[0].innerHTML += "THIS WORKS! YAY"'});
   });
 };
