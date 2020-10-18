@@ -22,7 +22,7 @@ const potential_fillins = [
     "wiping every countertop available with alcohol wipes",
     "making the switch from tissues to lysol wipes",
     "disinfecting your life on a bi-hourly basis",
-    "doing chloe ting workouts every other month to convince yourself you\’re fit",
+    "doing Chloe Ting workouts every other month to convince yourself you are fit",
     "mindlessly scrolling through tiktok",
     "learning how to renegade",
     "baking loaves of banana bread that no one wants",
