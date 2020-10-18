@@ -1,7 +1,7 @@
 {
-  "name": "Getting Started Example",
+  "name": "COVemail",
   "version": "1.0",
-  "description": "Build an Extension!",
+  "description": "To hope emails find others well in these unprecedented times.",
   "permissions": ["activeTab", "declarativeContent", "storage", "tabs"],
   "options_page": "options.html",
   "background": {
