@@ -15,7 +15,7 @@ const potential_fillins = [
     "stocked with toilet paper for the next 20 years",
     "eating your daily dose of vitamin gummies",
     "washing your hands for 20 seconds with warm water and lathered soap",
-    "drinking litres of hand sanitizers with final concentration of 80% ethanol or 75% isopropyl alcohol",
+    "drinking litres of hand sanitizers with final concentrations of 80% ethanol or 75% isopropyl alcohol",
     "making masks a true fashion statement",
     "staying positive and testing negative", 
     "spraying lysol on yourself like perfume",
